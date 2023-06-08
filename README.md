@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-y name is Elliott!
+My name is Elliott!
+
 27, he him pronouns
+
 currently working towards learning javascript 
 
 I've also co founded a company which you can find at burslfllc.com
+
 you can reach me at elliott.wilkinson94@gmail.com
