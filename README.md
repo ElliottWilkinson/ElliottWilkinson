@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Elliott!
 
-27, he him pronouns
+29, he him pronouns
 
 currently working towards learning javascript 
 
