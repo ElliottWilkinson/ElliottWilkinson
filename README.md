@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Elliott!
+I'm Elliott!  
 
-29, he him pronouns
+29, He/Him Pronouns
 
-currently working towards learning javascript 
+B.UR.SLF Co-Founder | Aspiring Software Developer | Occasional Artist 
 
-I've also co founded a company which you can find at burslfllc.com
+Currently learning: javascript! 
 
-you can reach me at elliott.wilkinson94@gmail.com
+You can reach me through email at elliott.wilkinson94@gmail.com
