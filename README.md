@@ -20,6 +20,6 @@ I'm Elliott!
 
 B.UR.SLF Co-Founder | Aspiring Software Developer | Occasional Artist 
 
-Currently learning: javascript! 
+Currently learning: javascript & python! 
 
 You can reach me through email at elliott.wilkinson94@gmail.com
